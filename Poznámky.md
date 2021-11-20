@@ -1,5 +1,13 @@
 # Poznámky
 
+## Odkazy na zadání a soubory z přednášek
+- [Zápočtové Úlohy](https://marian.fsik.cvut.cz/~jkarel/NMI/ZapoctoveUlohy.pdf)
+- [Přednáška 1](https://marian.fsik.cvut.cz/~jkarel/NMI/Prednaska1)
+- [Přednáška 3](https://marian.fsik.cvut.cz/~jkarel/NMI/Prednaska3)
+- [Přednáška 4](https://marian.fsik.cvut.cz/~jkarel/NMI/Prednaska4)
+- [Přednáška 5](https://marian.fsik.cvut.cz/~jkarel/NMI/Prednaska5)
+- [Přednáška 7](https://marian.fsik.cvut.cz/~jkarel/NMI/Prednaska7)
+
 ## Doporučení
 - úloha č.1 a č.2 - **pokud třídy nepotřebuješ, nepoužívej je**
 	- ulož si matici jako vektor a indexuj A[i+j*n]
